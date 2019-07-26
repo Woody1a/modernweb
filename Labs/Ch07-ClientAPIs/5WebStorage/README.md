@@ -1,4 +1,4 @@
-# Chapter 7: Exercise: Use Web Storage
+# Chapter 8: Exercise: Use Web Storage
 
 ## Objectives
 
@@ -106,6 +106,6 @@
 
 1. Mark your work as complete
 
-##Bonus
+## Bonus
 
 If done before others, implement checkboxes for favorite genres. Save and load these using web storage.
